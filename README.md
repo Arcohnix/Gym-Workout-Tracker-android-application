@@ -1,4 +1,4 @@
-# ForgeGym 🏋️‍
+# ForgeGym 
 
 ForgeGym is a premium, professional training journal for serious athletes who demand data-driven insights without the clutter. Built with a "Privacy-First" philosophy, ForgeGym works 100% offline, keeping your training legacy on your device where it belongs.
 
@@ -49,6 +49,5 @@ ForgeGym does not collect, track, or share your data.
 *   **No Tracking**: No analytics or third-party ads.
 *   **No Internet Required**: Works perfectly in a basement gym or airplane mode.
 
-##  License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
